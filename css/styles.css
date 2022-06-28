@@ -1,0 +1,19 @@
+body{
+  background-color: lightgreen;
+}
+
+hr{
+  border-color: lightgrey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color: goldenrod;
+}
+
+h3{
+  color: goldenrod;
+}
